@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi, I am Daniel 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-97&count_private=true&show_icons=true&hide=stars,issues&hide_rank=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-97&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Daniel-97/Daniel-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
