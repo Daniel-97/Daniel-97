@@ -21,9 +21,7 @@ My name is **Daniel** and I'm a **Backend Developer** who enjoys building reliab
 
 ### Open Source Contributions 🔧
 
-Projects I've contributed to:
-
-* [node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible)
+* [node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Added support for DynamoDB backend
 
 ---
 
