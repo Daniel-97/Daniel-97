@@ -30,3 +30,7 @@ My name is **Daniel** and I'm a **Backend Developer** who enjoys building reliab
 * 🌐 [Portfolio](https://portfolio.zeollad.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/daniele-zeolla-6472b611b/)
 * 📧 [daniele@zeollad.com](mailto:daniele@zeollad.com)
+
+---
+
+*Your favorite music you haven't heard it yet*
